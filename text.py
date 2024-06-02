@@ -5,4 +5,5 @@ c=6
 k=(-b+ m. sqrt(b*b-4*a*c))/(2*a)
 h=(-b- m. sqrt(b*b-4*a*c))/(2*a)
 print("k=",k)
-print("h=",h)
+# print("h=",h)
+print(f"h={h}")
